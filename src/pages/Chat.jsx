@@ -22,7 +22,7 @@ function Chat({ theme, setTheme }) {
     "Haan ji swagat h apka iss chat me, Kaahiye konsi samasya ka samadhan kerna h",
 
   PiyushSir:
-    "Hey! 👋 What's on your mind today? Whether it's DSA, system design, JavaScript, or backend development, let's learn it together.",
+    "Hello, Alright start kerte h, par koi personal question nhi puchega",
 };
 
   const [messages, setMessages] = useState([

@@ -16,10 +16,10 @@ function Home({ theme, setTheme }) {
   {theme === "light" ? <FiMoon /> : <FiSun />}
 </button>
       <div className="home-container">
-        <h1 className="home-title">Choose Your AI Mentor</h1>
+        <h1 className="home-title">Choose Whom You want to talk to</h1>
 
         <p className="home-subtitle">
-          Select the personality you'd like to chat with.
+          Select the person you would like to chat like to chat with.
         </p>
 
         <div className="persona-grid">
@@ -50,8 +50,7 @@ function Home({ theme, setTheme }) {
             <h2 className="persona-name">Piyush Sir</h2>
 
             <p className="persona-description">
-              Coding ko life se relate karke samjho. Learn concepts through
-              stories, analogies, and a developer mindset.
+              Coding wagera chodho, bas baatao kya Dead kerna h
             </p>
           </div>
         </div>
