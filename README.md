@@ -25,6 +25,10 @@ You can interact with them here
 
 ---
 
+## Data Collection
+All the information or data related to Hitesh sir and Piyush sir is collected from their yt video and live streams.
+Watched their streams and understand about them 
+
 ## Installation
 
 Clone the repository
@@ -57,3 +61,6 @@ Run the project
 npm run dev
 ```
 
+# Connect 
+Connect with me on X
+[X](https://x.com/krishnaP_20)
