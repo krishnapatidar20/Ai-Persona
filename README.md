@@ -2,7 +2,7 @@
 This is the Ai persona of Hitesh Sir and Piyush Sir.
 You can interact with them here
 [Visit Live Demo](https://persona11.netlify.app/)
-Actually i m using gemini free tier and i hv excided daily limit so can u provide review on 7 or 8 july
+
 ---
 
 ## Features
